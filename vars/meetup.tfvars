@@ -1,0 +1,7 @@
+aws_region = "us-west-2"
+domain = "meetup"
+vpc_id = ""
+subnet_ids = ""
+key_pair_name = ""
+route53_zone_id = ""
+es_record_name = ""
