@@ -29,6 +29,7 @@ variable "es_image_id" {
   type        = "map"
 
   default = {
+    "us-west-1" = "ami-06116566"
     "us-west-2" = "ami-9abea4fb"
   }
 }
@@ -53,6 +54,7 @@ variable "client_image_id" {
   type        = "map"
 
   default = {
+    "us-west-1" = "ami-06116566"
     "us-west-2" = "ami-9abea4fb"
   }
 }
